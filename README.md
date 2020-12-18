@@ -12,3 +12,6 @@
 
 #### Day 4 - Rock Paper Scissors
 - [Rock Paper Scissors](day_004)
+
+#### Day 5 - Password Generator
+- [Password Generator](day_005)
