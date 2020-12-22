@@ -15,3 +15,6 @@
 
 #### Day 5 - Password Generator
 - [Password Generator](day_005)
+
+#### Day 6 - Escaping Maze
+Note: Come back after learning GUI to make a maze
