@@ -21,3 +21,6 @@ Note: Come back after learning GUI to make a maze
 
 #### Day 7 - Hangman
 - [Hangman](day_007)
+
+#### Day 8 - Caesar Cipher
+- [Caesar Cipher](day_008)
