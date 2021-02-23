@@ -24,3 +24,6 @@ Note: Come back after learning GUI to make a maze
 
 #### Day 8 - Caesar Cipher
 - [Caesar Cipher](day_008)
+
+#### Day 9 - Secret Auction
+- [Secret Auction](day_009)
